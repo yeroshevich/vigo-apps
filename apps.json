@@ -2,6 +2,20 @@
   "schemaVersion": 1,
   "apps": [
     {
+      "id": "organic-maps",
+      "name": "Organic Maps",
+      "packageName": "app.organicmaps.web",
+      "versionCode": 26082718,
+      "versionName": "2026.08.27-18-Web",
+      "apks": [
+        {
+          "url": "https://github.com/organicmaps/organicmaps/releases/download/2026.08.27-18-android/OrganicMaps-26082718-web-release.apk",
+          "sha256": "1f19229d95b731862349d504b150dad63eb405caa83e98c96bfe93b7acae3c7a",
+          "sizeBytes": 64193127
+        }
+      ]
+    },
+    {
       "id": "newpipe",
       "name": "NewPipe",
       "packageName": "org.schabi.newpipe",

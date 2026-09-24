@@ -9,6 +9,7 @@
 
 | Приложение | Источник | Лицензия |
 | --- | --- | --- |
+| Organic Maps | [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps/releases) (ссылка на официальный релиз) | Apache 2.0 |
 | NewPipe | [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe/releases) (ссылка на официальный релиз) | GPLv3 |
 | Fossify Calculator | [FossifyOrg/Calculator](https://github.com/FossifyOrg/Calculator/releases) | GPLv3 |
 
